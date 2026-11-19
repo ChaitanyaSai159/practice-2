@@ -70,7 +70,7 @@ nav a:hover{
     display: flex;
     align-items:center ;
     gap: 7px;
-    color: brown;
+    color: rgb(66, 234, 66);
     font-size: 11px;
 }
 .online-dot{
